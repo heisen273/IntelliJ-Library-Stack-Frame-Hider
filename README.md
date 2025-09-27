@@ -1,2 +1,2 @@
-# IntelliJ-Library-Stack-Frame-Hider-
+# IntelliJ Library Stack Frame Hider issue tracking page
 IntelliJ Library Stack Frame Hider  - Compatible with all IntelliJ IDEs, PyCharm, GoLand, WebStorm, ...
